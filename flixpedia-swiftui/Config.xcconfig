@@ -1,0 +1,9 @@
+//
+//  Config.xcconfig
+//  flixpedia-swiftui
+//
+//  Created by Zin Lin Phyo on 13/11/24.
+//
+
+BASE_URL =
+TMDB_API_KEY =
